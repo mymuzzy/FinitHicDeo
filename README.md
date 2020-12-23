@@ -2,7 +2,8 @@
 
 ### Author: Muzkkir Husseni and Nachiket Rathod
 
-![fhd](https://user-images.githubusercontent.com/61471222/103018030-8713be00-456a-11eb-9cb4-7be665d02f22.png)
+<kbd>![minipic]![fhd](https://user-images.githubusercontent.com/61471222/103018030-8713be00-456a-11eb-9cb4-7be665d02f22.png)</kbd>
+
 
 ### Description:
 We have created this CTF for pentester's who like to research and exploit new vulnerabilities like HTTP Request Smuggling. You will enjoy and brainstorm your mind while playing/learning this CTF.
