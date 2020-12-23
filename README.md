@@ -18,7 +18,9 @@ Import into VirtualBox or VirtualMachine and start playing.
 If you want to share about issues and problem, feel free to share with me on LinkedIn
 "https://www.linkedin.com/in/hussenimuzkkir/" 
 
+Also, visit "https://muzkkir.com" for more stuff. :)
+
 Thanks For Reading.
 
 #### Muzkkir Husseni
-#### muzkkir.com
+
