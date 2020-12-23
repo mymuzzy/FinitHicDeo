@@ -20,6 +20,5 @@ If you want to share about issues and problem, feel free to share with me on Lin
 
 Thanks For Reading.
 
-Muzkkir Husseni
-
-muzkkir.com
+#### Muzkkir Husseni
+#### muzkkir.com
